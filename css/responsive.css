@@ -1,0 +1,1705 @@
+
+@media (min-width:1400px){
+
+    /* Banner part css */
+
+    .banner_right_element {
+        
+        right               : 230px;
+       
+    }
+
+    /* Choose part css */
+
+    #choose {
+
+        z-index             : 1;
+        
+    }
+
+    .choose_left_top {
+
+        z-index             : -1;
+
+    }
+
+    /* impact part css */
+
+    #impact {
+
+        z-index             : 1;
+        
+    }
+    .impact_right_bottom_pic {
+
+        z-index             : -1;
+
+    }
+
+    /* Blog part css */
+
+    #blog {
+        
+        z-index             : 1;
+
+    }
+    .inner_left_btm_pic {
+        
+        z-index             : -1;
+
+    }
+
+}
+
+/* Xl device */
+
+@media (min-width:1200px) and (max-width:1399.99px){
+
+    /* banner part css */
+
+    .banner_contain h1 {
+       
+        font-size           : 80px;
+
+    }
+
+    .banner_contain p {
+
+        padding             : 10px 110px;
+        
+    }
+
+    .banner_right_element {
+      
+        right               : 130px;
+       
+    }
+
+      /* client part css */
+
+      .client_content h4 {
+      
+        font-size           : 33px;
+     
+    }
+
+      .client_content_last h4 {
+       
+        font-size           : 33px;
+       
+    }
+
+    .client_top_right_bg {
+     
+       z-index              : -1;
+        
+    }
+
+     /* Choose part css */
+
+     #choose {
+
+        z-index              : 1;
+      
+    }
+
+     .choose_left_top {
+
+        z-index              : -1;
+
+    }
+
+    .iner_right p {
+        
+        padding-right       : 100px;
+       
+    }
+
+    .iner_right {
+        width               : 85%;
+    }
+
+    /* Service part css */
+
+    .service_box {
+    
+        padding             : 48px 10px;
+
+    }
+
+    /* impact part css */
+
+    #impact {
+
+        z-index               : 1;
+        
+      }
+
+    .impact_head p {
+       
+        padding             : 0 14px;
+        font-size           : 17px;
+        
+    }
+
+    .inner_impact_text p {
+      
+        padding-right       : 0;
+
+    }
+
+    .impact_right_bottom_pic {
+
+      z-index               : -1;
+
+    }
+
+    /* Plan part css */
+
+    .plan_box p {
+
+        padding             : 0px 60px;
+       
+    }
+
+    /* Review part */
+
+    .review_heading h2 {
+     
+        font-size           : 43px;
+       
+    }
+
+    /* Blog part */
+
+    #blog{
+
+        z-index            : 1;
+        
+    }
+    .blog_image {
+
+        width           : auto;
+        
+    }
+
+    .inner_blog_btm h4 {
+       
+        font-size       : 29px;
+        line-height     : 50px;
+        padding         : 15px 0;
+
+    }
+
+    .inner_left_btm_pic {
+
+     z-index            : -1;
+
+    }
+
+    /* Footer part css */
+
+    .footer_left p {
+       
+        padding-right: 4px;
+       
+    }
+
+}
+
+/* Lg device */
+
+@media (min-width:992px) and (max-width:1199.99px){
+
+    /* Navbar css */
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+
+        padding-right       : 15px;
+        padding-left        : 15px;
+     
+    }
+
+    /* Banner part css */
+
+    .banner_contain h1 {
+        
+        font-size           : 65px;
+        line-height         : 80px;
+      
+    }
+
+    .banner_contain p {
+        
+        padding             : 10px 50px;
+        font-size           : 23px;
+        line-height         : 36px;
+      
+    }
+
+    .banner_right_element {
+        
+        right               : 50px;
+        top                 : 740px;
+
+    }
+
+    /* Client css part */
+
+    .client_content h4 {
+        
+        font-size           : 27px;
+      
+    }
+
+    .client_content_last h4 {
+
+        font-size           : 27px;
+
+    }
+
+
+    .client_top_right_bg {
+ 
+        z-index             : -1;
+    }
+
+    /* choose part css */
+    
+    #choose{
+        
+        z-index             : 1;
+
+    }
+    .choose_left_top {
+   
+        z-index             : -1;
+    }
+
+    .iner_right {
+
+        width               : 80%;
+
+    }
+
+    .iner_right p {
+        
+        padding-right       : 0px;
+    
+    }
+
+    /* Service part css */
+
+    .service_box {
+    
+        padding             : 30px 0px;
+    
+    }
+
+    /* impact part css */
+
+    #impact{
+
+        z-index             : 1;
+
+    }
+
+    .impact_head h2 {
+
+        font-size           : 40px;
+      
+    }
+
+    .impact_head p {
+
+        padding             : 0;
+        font-size           : 16px;
+    
+    }
+
+    .inner_impact_text h4 {
+       
+        font-size           : 28px;
+      
+    }
+
+    .inner_impact_text p {
+
+        padding-right       : 0px;
+        font-size           : 17px;
+        line-height         : 28px;
+
+    }
+
+    .impact_right_bottom_pic {
+
+        z-index             : -1;
+
+    }
+
+    /* plan part css */
+
+    .plan_heading h2 {
+
+        font-size           : 40px;
+       
+    }
+
+    .plan_box p {
+
+        padding             : 0 45px;
+
+    }
+
+    /* review part css */
+
+    .review_heading h2 {
+       
+        font-size           : 36px;
+       
+    }
+
+    /* blog part css */
+
+    #blog{
+
+        z-index             : 1;
+
+    }
+
+    .blog_heading h2 {
+     
+        font-size           : 41px;
+       
+    }
+
+    .blog_image {
+
+        width               : auto;
+        height              : auto;
+
+    }
+
+    .inner_blog_btm h4 {
+       
+        font-size           : 25px;
+        line-height         : 45px;
+        padding             : 15px 0;
+
+    }
+
+    .inner_left_btm_pic {
+
+      z-index               : -1;
+
+    }
+
+    /* Footer paer css */
+
+    .footer_left p {
+      
+        padding-right       : 0;
+        padding-bottom      : 0;
+       
+    }
+
+
+}
+
+/* Md device */
+
+@media (min-width:768px) and (max-width:991.99px){
+
+
+    /* navbar css part */
+    .navbar {
+
+      background-color    : rgba(22, 12, 109);
+
+  }
+
+  .nav-item {
+
+      align-items         : center;
+      margin              : 0 auto;
+
+  }
+
+  .nav_btn{
+
+      text-align          : center;
+     
+  }
+
+  /* banner part css */
+  .banner_contain h1 {
+
+      font-size           : 55px;
+      line-height         : 70px;
+
+  }
+
+  .overlay {
+  
+      padding-top         : 160px;
+      padding-bottom      : 80px;
+
+  }
+
+.banner_contain p {
+
+  padding                 : 30px 0;
+  font-size               : 23px;
+  line-height             : 40px;
+
+}
+
+  #client {
+
+      padding             : 50px 0px;
+  }
+
+  .banner_btn button {
+
+      margin              : 0 15px;
+      padding             : 20px 40px;
+      font-size           : 20px;
+
+  }
+
+  #client {
+
+      padding             : 40px 0px;
+
+  }
+
+  .client_content {
+
+      border-right        : 1px solid #4F585F;
+  }
+
+  .client_content h3 {
+    
+      font-size           : 40px;
+  }
+  
+  .client_content h4 {
+
+      padding             : 13px 0;
+      font-size           : 20px;
+  
+  }
+
+  .client_content_last h3 {
+
+      font-size           : 40px;
+  
+  }
+
+  .client_content_last h4 {
+
+      padding             : 13px 0;
+      font-size           : 20px;
+     
+  }
+
+  /* choose part */
+
+  #choose {
+
+      padding             : 0px 0px 0px 10px;
+      margin-top          : 30px;
+      margin-bottom       : 50px;
+    
+  }
+
+  .choose_left {
+	padding: 15px 13px 10px 15px;
+	transition: all linear 0.3s;
+}
+
+  .iner_right p {
+
+      padding-right       : 0;
+   
+  }
+
+  .choose_left:hover {
+  
+      padding             : 25px 0px 15px 15px;
+      margin-bottom       : 20px;
+  }
+
+  .choose_right_text{
+
+      text-align          : center;
+
+  }
+
+  .choose_right_text h2 {
+     
+      font-size           : 40px;
+      padding-top         : 50px;
+  }
+
+  .choose_right_text p {
+
+    margin                : 30px 0;
+    width                 : auto;
+
+  }
+/* service part css */
+
+  #service {
+    padding-top           : 50px;
+    padding-bottom        : 50px;
+  
+  }
+
+  .service_box {
+      height              : auto;
+      padding             : 30px 26px;
+     
+  }
+
+  .service_start{
+
+     text-align           : center;
+     margin-bottom        : 50px;
+
+  }
+
+  .service_start h2 {
+     
+      font-size           : 40px;
+
+  }
+
+  .service_start p {
+
+      padding             : 30px 0;
+      line-height         : 32px;
+  
+  }
+
+  .service_content h3 {
+
+      padding-top         : 15px;
+      font-size           : 30px;
+      line-height         : 40px;
+      
+
+  }
+
+  .service_content p {
+
+      margin              : 15px 0;
+      padding             : 0;
+      font-size           : 15px;
+     
+  }
+
+  /*  impact part*/
+
+  #impact {
+     
+      padding-top         : 60px;
+      padding-bottom      : 60px;
+    
+  }
+
+  .impact_head h2 {
+     
+      font-size           : 40px;
+      line-height         : 40px;
+  
+  }
+
+  .impact_head p {
+
+      margin-top          : 30px;
+      margin-bottom       : 50px;
+      padding             : 0 10px;
+      font-size           : 17px;
+      
+  }
+
+  .inner_impact_text h4 {
+  
+      font-size           : 35px;
+      line-height         : 40px;
+      margin-top          : 15px;
+      
+
+  }
+
+  .inner_impact_text p {
+
+      padding             : 0 10px;
+      font-size           : 17px;
+     
+      
+  
+  }
+
+  /* plan css */
+
+  .plan_box{
+
+      margin              : 15px 0px;
+  }
+
+  .plan_heading h2 {
+
+      margin-bottom       : 40px;
+      font-size           : 40px;
+      line-height         : 50px;
+      text-align          : center;
+
+  }
+
+  .plan_box h3 {
+      
+      font-size           : 30px;
+
+  }
+
+  .plan_box p {
+
+      padding             : 0 10px;
+      font-size           : 17px;
+     
+  }
+  
+  /* review css */
+
+  #review {
+     
+      padding-top         : 20px;
+      padding-bottom      : 90px;
+      
+  }
+
+  .review_heading h2 {
+  
+      font-size           : 30px;
+      line-height         : 45px;
+      
+      
+  }
+
+  .review_box p {
+
+      width               : auto;
+      font-size           : 17px;
+      line-height         : 30px;
+      
+  }
+
+  .people_name h4 {
+
+      padding-top         : 22px;
+      
+  }
+
+  /* blog part css */
+
+  #blog {
+     
+      padding-bottom      : 30px;
+  
+  }
+
+  .blog_image {
+      width               : auto;
+      height              : auto;
+     
+  }
+
+  .blog_heading h2 {
+
+      padding-bottom      : 30px;
+      font-size           : 35px;
+      
+  }
+
+  .inner_blog_top ul li a {
+      
+      font-size           : 15px;
+      
+  }
+
+  .inner_blog_btm a {
+
+      margin-bottom       : 40px;
+   
+  }
+
+  .inner_blog_btm h4 {
+
+      padding             : 10px 0;
+      font-size           : 22px;
+      line-height         : 33px;
+
+  }
+
+  .inner_blog_btm a {
+
+	padding             : 6px 10px;
+	font-size           : 17px;
+
+}
+
+  /* footer css  */
+
+  #footer {
+
+      padding-top         : 50px;
+
+  }
+
+
+  .footer_left p{
+
+      padding-top         : 30px;
+      padding-bottom      : 40px;
+      padding-right       : 0px;
+      font-size           : 17px;
+      
+  }
+
+  .footer_Features h4{
+
+      padding-bottom      : 15px;
+     
+  }
+
+  .footer_Features ul li {
+
+      padding             : 8px 0;
+
+  }
+
+  .footer_products h4 {
+
+      padding-bottom      : 15px;
+
+  }
+
+  .footer_products ul li {
+
+      padding             : 8px 0;
+
+  }
+
+  .all_rights_reserved a {
+     
+      font-size           : 17px;
+      padding             : 10px 0;
+      display             : inline-block;
+      
+
+  }
+
+  .footer_privacy a {
+      
+      font-size           : 17px;
+      padding             : 10px 0;
+      display             : inline-block;
+
+   
+  }
+
+  .footer_terms a {
+     
+      font-size           : 17px;
+      padding             : 10px 0;
+      display             : inline-block;
+
+     
+  }
+
+
+}
+
+/* Sm device */
+
+@media (min-width:576px) and (max-width:767.99px){
+
+
+      /* navbar css part */
+      .navbar {
+
+        background-color    : rgba(22, 12, 109);
+ 
+    }
+
+    .nav-item {
+
+        align-items         : center;
+        margin              : 0 auto;
+
+    }
+
+    .nav_btn{
+
+        text-align          : center;
+       
+    }
+
+    /* banner part css */
+    .banner_contain h1 {
+
+        font-size           : 45px;
+        line-height         : 60px;
+
+    }
+
+    .overlay {
+    
+        padding-top         : 160px;
+        padding-bottom      : 80px;
+
+    }
+
+ .banner_contain p {
+
+	padding                 : 20px 0;
+	font-size               : 20px;
+	line-height             : 36px;
+
+}
+
+    #client {
+
+        padding             : 50px 0px;
+    }
+
+    .banner_btn button {
+
+        margin              : 0 15px;
+        padding             : 14px 40px;
+        font-size           : 18px;
+
+    }
+
+    #client {
+
+        padding             : 40px 0px;
+
+    }
+
+    .client_content {
+
+        border-right        : none;
+    }
+
+    .client_content h3 {
+      
+        font-size           : 35px;
+    }
+    
+    .client_content h4 {
+
+        padding             : 13px 0;
+        font-size           : 18px;
+    
+    }
+
+    .client_content_last h3 {
+
+        font-size           : 35px;
+    
+    }
+
+    .client_content_last h4 {
+
+        padding             : 13px 0;
+        font-size           : 18px;
+       
+    }
+
+    /* choose part */
+
+    #choose {
+
+        padding             : 0px 0px 0px 10px;
+        margin-top          : 30px;
+        margin-bottom       : 50px;
+      
+    }
+
+    .choose_left{
+
+        padding             : 15px 13px 10px 15px;
+        transition          : all linear 0.3s;
+    }
+
+    .iner_right p {
+
+        padding-right       : 0;
+     
+    }
+
+    .choose_left:hover {
+    
+        padding             : 15px 13px 10px 15px;
+        margin-bottom       : 20px;
+    }
+
+    .choose_right_text{
+
+        text-align          : center;
+
+    }
+
+    .choose_right_text h2 {
+       
+        font-size           : 40px;
+        padding-top         : 50px;
+    }
+
+    .choose_right_text p {
+
+	  margin                : 30px 0;
+	  width                 : auto;
+
+    }
+/* service part css */
+
+    #service {
+	  padding-top           : 50px;
+	  padding-bottom        : 50px;
+    
+    }
+
+    .service_box {
+        height              : auto;
+        padding             : 30px 26px;
+       
+    }
+
+    .service_start{
+
+       text-align           : center;
+       margin-bottom        : 50px;
+
+    }
+
+    .service_start h2 {
+       
+        font-size           : 40px;
+
+    }
+
+    .service_start p {
+
+        padding             : 30px 0;
+        line-height         : 32px;
+    
+    }
+
+    .service_content h3 {
+
+        padding-top         : 15px;
+        font-size           : 30px;
+        line-height         : 40px;
+        
+
+    }
+
+    .service_content p {
+
+        margin              : 15px 0;
+        padding             : 0;
+        font-size           : 15px;
+       
+    }
+
+    /*  impact part*/
+
+    #impact {
+       
+        padding-top         : 60px;
+        padding-bottom      : 60px;
+      
+    }
+
+    .impact_head h2 {
+       
+        font-size           : 40px;
+        line-height         : 40px;
+    
+    }
+
+    .impact_head p {
+
+        margin-top          : 30px;
+        margin-bottom       : 50px;
+        padding             : 0 10px;
+        font-size           : 17px;
+        
+    }
+
+    .inner_impact_text h4 {
+    
+        font-size           : 35px;
+        line-height         : 40px;
+        margin-top          : 15px;
+        
+
+    }
+
+    .inner_impact_text p {
+  
+        padding             : 0 10px;
+        font-size           : 17px;
+       
+        
+    
+    }
+
+    /* plan css */
+
+    .plan_box{
+
+        margin              : 15px 0px;
+    }
+
+    .plan_heading h2 {
+
+        margin-bottom       : 40px;
+        font-size           : 40px;
+        line-height         : 50px;
+        text-align          : center;
+
+    }
+
+    .plan_box h3 {
+        
+        font-size           : 30px;
+
+    }
+
+    .plan_box p {
+
+        padding             : 0 10px;
+        font-size           : 17px;
+       
+    }
+    
+    /* review css */
+
+    #review {
+       
+        padding-top         : 20px;
+        padding-bottom      : 90px;
+        
+    }
+
+    .review_heading h2 {
+    
+        font-size           : 30px;
+        line-height         : 45px;
+        
+        
+    }
+
+    .review_box p {
+
+        width               : auto;
+        font-size           : 17px;
+        line-height         : 30px;
+        
+    }
+
+    .people_name h4 {
+
+        padding-top         : 22px;
+        
+    }
+
+    /* blog part css */
+
+    #blog {
+       
+        padding-bottom      : 30px;
+    
+    }
+
+    .blog_image {
+        width               : auto;
+        height              : auto;
+       
+    }
+
+    .blog_heading h2 {
+
+        padding-bottom      : 30px;
+        font-size           : 35px;
+        
+    }
+
+    .inner_blog_top ul li a {
+        
+        font-size           : 15px;
+        
+    }
+
+    .inner_blog_btm a {
+
+        margin-bottom       : 40px;
+     
+    }
+
+    .inner_blog_btm h4 {
+
+        padding             : 20px 0;
+        font-size           : 25px;
+        line-height         : 40px;
+
+    }
+
+    /* footer css  */
+
+    #footer {
+
+        padding-top         : 50px;
+
+    }
+
+
+    .footer_left p{
+
+        padding-top         : 30px;
+        padding-bottom      : 40px;
+        padding-right       : 0px;
+        font-size           : 17px;
+        
+    }
+
+    .footer_Features h4{
+
+        padding-bottom      : 15px;
+       
+    }
+
+    .footer_Features ul li {
+
+        padding             : 8px 0;
+
+    }
+
+    .footer_products h4 {
+
+        padding-bottom      : 15px;
+
+    }
+
+    .footer_products ul li {
+
+        padding             : 8px 0;
+
+    }
+
+    .all_rights_reserved a {
+       
+        font-size           : 17px;
+        padding             : 10px 0;
+        display             : inline-block;
+        
+
+    }
+
+    .footer_privacy a {
+        
+        font-size           : 17px;
+        padding             : 10px 0;
+        display             : inline-block;
+
+     
+    }
+
+    .footer_terms a {
+       
+        font-size           : 17px;
+        padding             : 10px 0;
+        display             : inline-block;
+
+       
+    }
+
+
+}
+
+/* Xs device */
+
+@media(max-width:575.99px){
+
+    /* navbar css part */
+    .navbar {
+
+        background-color    : rgba(22, 12, 109);
+ 
+    }
+
+    .nav-item {
+
+        align-items         : center;
+        margin              : 0 auto;
+
+    }
+
+    .nav_btn{
+
+        text-align          : center;
+       
+    }
+
+    /* banner part css */
+    .banner_contain h1 {
+
+        font-size           : 26px;
+        line-height         : 40px;
+      
+    }
+
+    .overlay {
+    
+        padding-top         : 160px;
+        padding-bottom      : 80px;
+
+    }
+
+    .banner_contain p {
+
+        padding             : 15px 0;
+        font-size           : 14px;
+        line-height         : 33px;
+
+    }
+
+    #client {
+
+        padding             : 50px 0px;
+    }
+
+    .banner_btn button {
+
+        margin              : 0;
+        padding             : 12px 23px;
+        font-size           : 14px;
+
+    }
+
+    #client {
+
+        padding             : 40px 0px;
+
+    }
+
+    .client_content {
+
+        border-right        : none;
+    }
+
+    .client_content h3 {
+      
+        font-size           : 35px;
+    }
+    
+    .client_content h4 {
+
+        padding             : 13px 0;
+        font-size           : 18px;
+    
+    }
+
+    .client_content_last h3 {
+
+        font-size           : 35px;
+    
+    }
+
+    .client_content_last h4 {
+
+        padding             : 13px 0;
+        font-size           : 18px;
+       
+    }
+
+    /* choose part */
+
+    #choose {
+
+        padding             : 0px 0px 0px 10px;
+        margin-top          : 30px;
+        margin-bottom       : 50px;
+      
+    }
+
+    .choose_left{
+
+        padding             : 15px 13px 10px 15px;
+        transition          : all linear 0.3s;
+    }
+
+    .iner_left {
+
+        width               : 20%;
+    }
+
+    .iner_right{
+
+        width               : 80%;
+    }
+
+    .iner_right p {
+
+        padding-right       : 0;
+        font-size           : 13px;
+        line-height         : 24px;
+        
+      
+    }
+
+    .choose_left:hover {
+    
+        padding             : 15px 13px 10px 15px;
+        margin-bottom       : 20px;
+    }
+
+    .choose_right_text{
+
+        text-align          : center;
+
+    }
+
+    .choose_right_text h2 {
+       
+        font-size           : 35px;
+        padding-top         : 30px;
+    }
+
+    .choose_right_text p {
+
+	  margin                : 25px 0;
+	  width                 : auto;
+
+    }
+
+    .chose_btn button {
+
+        padding             : 10px 30px;
+        font-size           : 18px;
+       
+    }
+/* service part css */
+
+    #service {
+	  padding-top           : 50px;
+	  padding-bottom        : 50px;
+    
+    }
+
+    .service_box {
+        height              : auto;
+        padding             : 30px 26px;
+       
+    }
+
+    .service_start{
+
+       text-align           : center;
+       margin-bottom        : 50px;
+
+    }
+
+    .service_start h2 {
+       
+        font-size           : 35px;
+
+    }
+
+    .service_start p {
+
+        padding             : 25px 0;
+        line-height         : 30px;
+    
+    }
+
+    .service_btn button {
+
+        padding             : 10px 30px;
+        font-size           : 18px;
+
+    }
+
+    .service_content h3 {
+
+        padding-top         : 15px;
+        font-size           : 30px;
+        line-height         : 40px;
+        
+
+    }
+
+    .service_content p {
+
+        margin              : 15px 0;
+        padding             : 0;
+        font-size           : 15px;
+       
+    }
+
+    /*  impact part*/
+
+    #impact {
+       
+        padding-top         : 60px;
+        padding-bottom      : 60px;
+      
+    }
+
+    .impact_head h2 {
+       
+        font-size           : 30px;
+        line-height         : 40px;
+    
+    }
+
+    .impact_head p {
+
+        margin-top          : 18px;
+        margin-bottom       : 70px;
+        padding             : 0 10px;
+        font-size           : 17px;
+        
+    }
+
+    .inner_impact_text h4 {
+    
+        font-size           : 30px;
+        line-height         : 40px;
+        margin-top          : 15px;
+        
+
+    }
+
+    .inner_impact_text p {
+  
+        padding             : 0 10px;
+        font-size           : 17px;
+       
+        
+    
+    }
+
+    /* plan css */
+
+    .plan_box{
+
+        margin: 15px 0px;
+    }
+
+    .plan_heading h2 {
+
+        margin-bottom       : 40px;
+        font-size           : 35px;
+        line-height         : 50px;
+        text-align          : center;
+
+    }
+
+    .plan_box h3 {
+        
+        font-size           : 30px;
+
+    }
+
+    .plan_box p {
+
+        padding             : 0 10px;
+        font-size           : 17px;
+       
+    }
+    
+    /* review css */
+
+    #review {
+       
+        padding-top         : 20px;
+        padding-bottom      : 90px;
+        
+    }
+
+    .review_heading h2 {
+    
+        font-size           : 30px;
+        line-height         : 45px;
+        
+        
+    }
+
+    .review_box p {
+
+        width               : auto;
+        font-size           : 17px;
+        line-height         : 30px;
+        
+    }
+
+    .people_name h4 {
+
+        padding-top         : 22px;
+        
+    }
+
+    /* blog part css */
+
+    #blog {
+       
+        padding-bottom      : 30px;
+    
+    }
+
+    .blog_image {
+        width               : auto;
+        height              : auto;
+       
+    }
+
+    .blog_heading h2 {
+
+        padding-bottom      : 30px;
+        font-size           : 30px;
+        
+    }
+
+    .inner_blog_top ul li:nth-child(2) {
+
+        margin      : 0 12px;
+
+    }
+
+    .inner_blog_top ul li a {
+        
+        font-size           : 13px;
+        
+    }
+
+    .inner_blog_btm a {
+
+        margin-bottom       : 20px;
+     
+    }
+
+    .inner_blog_btm h4 {
+
+        padding-bottom      : 10px;
+        font-size           : 20px;
+        line-height         : 27px;
+
+    }
+
+    /* footer css  */
+
+    #footer {
+
+        padding-top         : 50px;
+
+    }
+
+    .footer_logo{
+
+        text-align          : center;
+
+    }
+
+    .footer_left p{
+
+        padding-top         : 30px;
+        padding-bottom      : 40px;
+        padding-right       : 0px;
+        font-size           : 17px;
+        text-align          : center;
+    }
+
+    .footer_Features h4{
+
+        padding-bottom      : 15px;
+        text-align          : center;
+       
+    }
+
+    .footer_Features ul li {
+
+        padding             : 8px 0;
+        text-align          : center;
+
+    }
+
+    .footer_products h4 {
+
+        padding-top         : 40px;
+        padding-bottom      : 15px;
+        text-align          : center;
+
+    }
+
+    .footer_products ul li {
+
+        padding             : 8px 0;
+        text-align          : center;
+
+    }
+
+    .all_rights_reserved{
+       
+      text-align            : center;
+        
+
+    }
+
+    .all_rights_reserved a {
+       
+        font-size           : 17px;
+        padding             : 10px 0;
+        display             : inline-block;
+        
+
+    }
+
+    .footer_privacy {
+
+        text-align          : center;
+
+    }
+
+    .footer_privacy a {
+        
+        font-size           : 17px;
+        padding             : 10px 0;
+        display             : inline-block;
+
+     
+    }
+
+    .footer_terms{
+
+        text-align          : center;
+
+    }
+
+    .footer_terms a {
+       
+        font-size           : 17px;
+        padding             : 10px 0;
+        display             : inline-block;
+
+       
+    }
+
+
+    
+}
